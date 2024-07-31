@@ -12,3 +12,4 @@ class ListNode(object):
 
 class Solution(object):
     def addTwoNumbers(self, l1:ListNode, l2:ListNode) -> int:
+        return 0
